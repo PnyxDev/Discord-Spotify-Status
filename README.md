@@ -1,0 +1,1 @@
+# SpotifyStatusSync
